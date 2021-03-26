@@ -1,6 +1,6 @@
 # Grav File Exists Plugin
 
-`File Exists` is a [Grav](http://github.com/getgrav/grav) CMS p1lugin that allows to check the existance of a file in the filesystem.
+`File Exists` is a plugin for the [Grav](http://github.com/getgrav/grav) CMS that allows to check the existance of a file in the filesystem.
 
 # Installation
 
