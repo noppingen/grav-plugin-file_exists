@@ -20,7 +20,7 @@ enabled: true
 
 # Usage
 
-In your Twig template you can use `file_exists()` test for existing files. the plugin returns a bool value:
+In your Twig template you can use `file_exists()` to test for existing files. The plugin returns a bool value:
 
 - **true** if the specified file exists
 - **fals** if it does not exist
