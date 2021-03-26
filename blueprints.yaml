@@ -1,0 +1,10 @@
+name: File Exists
+type: plugin
+slug: fileexists
+version: 1.0.0
+description: "Provides a function to see if a file exists (e.g. 'if file_exists(file)')"
+icon: map-marker
+author:
+  name: Stefan Onderka
+  email: stefan@onderka.com
+  url: https://www.onderka.com
