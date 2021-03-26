@@ -28,7 +28,7 @@ In your Twig template you can use `file_exists()` to test for existing files. Th
 # Example
 
 ```twig
-{# Needs plugin "File Exists" (https://www.onderka.com/computer-und-netzwerk/grav-plugin-file_exists) #}
+{# Needs plugin "File Exists" (https://github.com/noppingen/grav-plugin-file_exists) #}
 {% set current_path = page.path() %}
 {% if file_exists(current_path ~ "/_header.jpg") %}
     <img title='Header - {{ page.title }}' src='{{ page.url }}/_header.jpg'>
